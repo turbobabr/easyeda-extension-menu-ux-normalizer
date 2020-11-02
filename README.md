@@ -2,11 +2,11 @@
 
 [EasyEDA: Desiger](https://easyeda.com/) has a really annoying issue with sub-menus popping up when mouse is hovered over main menu's items. This extension is build in order to fix the issue by blocking main menu's `hover behaviour`.
 
-#### Default behaviour without extension(🤬🤬🤬):
+#### 🤬 - Default behaviour without extension:
 
 <img src="./docs/demo-without-extension.gif">
 
-#### After installing this extension(✅):
+#### ✅ - After installing this extension:
 
 <img src="./docs/demo-with-extension.gif">
 
