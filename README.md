@@ -1,6 +1,6 @@
 # easyeda-menu-ux-normalizer-extension
 
-[EasyEDA: Desiger](https://easyeda.com/) has a really annoying issue with sub-menus popping up when mouse is hovered over main menu's items. This extension is build in order to fix the issue by blocking main menu's `hover behaviour`.
+[EasyEDA: Desiger](https://easyeda.com/editor) has a really annoying issue with sub-menus popping up when mouse is hovered over main menu's items. This extension is build in order to fix the issue by blocking main menu's `hover behaviour`.
 
 #### 🤬 - Default behaviour without extension:
 
@@ -27,5 +27,5 @@ After the installation process - you don't need to run any commands or perform a
 
 ## Feedback
 
-If you discover any issue or have any suggestions for improvement of the plugin, please [open an issue](https://github.com/turbobabr/easyeda-extension-menu-ux-normalizer/issues) or ping me on twitter @turbobabr.
+If you discover any issue or have any suggestions for improvement of the plugin, please [open an issue](https://github.com/turbobabr/easyeda-extension-menu-ux-normalizer/issues) or ping me on twitter [@turbobabr](http://twitter.com/turbobabr).
 
