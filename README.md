@@ -21,4 +21,11 @@
 7. In the `Extension ID` filed put `fixmenu` string and hit `Load Extension` button.
 8. Finally, refresh the page in the browser to make it working.
 
+## Usage
+
+After the installation process - you don't need to run any commands or perform any actions to make it working. The extension itself is initialized during the `EasyEDA` startup automatically.
+
+## Feedback
+
+If you discover any issue or have any suggestions for improvement of the plugin, please [open an issue](https://github.com/turbobabr/easyeda-extension-menu-ux-normalizer/issues) or ping me on twitter @turbobabr.
 
