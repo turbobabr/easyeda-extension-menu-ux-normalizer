@@ -12,7 +12,7 @@
 
 ## Installation
 
-1. Download easyeda-extension-menu-ux-normalizer.zip archive.
+1. Download [easyeda-extension-menu-ux-normalizer.zip](https://github.com/turbobabr/easyeda-extension-menu-ux-normalizer/archive/main.zip) archive.
 2. Unzip the downloaded file.
 3. Open [EasyEDA: Designer](https://easyeda.com/editor).
 4. Via main menu, go to `Advanced -> Extensions`.
