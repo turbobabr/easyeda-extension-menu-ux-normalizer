@@ -1,0 +1,8 @@
+{
+    "name": "Main Menu UX Normalizer",
+    "description": "Removes the annoying main menu behaviour when sub-menus pop up on mouse over.",
+    "version": "1.0",
+    "homepage": "https://github.com/turbobabr/easyeda-extension-menu-ux-normalizer",
+    "author": "Andrey Shakhmin (@turbobabr)",
+    "scripts": [ "main.js" ]
+}
