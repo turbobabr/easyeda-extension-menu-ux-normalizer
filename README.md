@@ -4,7 +4,11 @@
 
 #### Default behaviour without extension:
 
+<img src="./docs/demo-without-extension.gif">
+
 #### After installing this extension:
+
+<img src="./docs/demo-with-extension.gif">
 
 ## Installation
 
