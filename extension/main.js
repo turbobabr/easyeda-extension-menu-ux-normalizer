@@ -1,3 +1,4 @@
+// extension-fixmenu-id
 (function () {
   function logMessage(msg) {
     console.log("[main-menu-ux-normalizer]: " + msg);
